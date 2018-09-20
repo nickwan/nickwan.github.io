@@ -2,13 +2,13 @@
 layout: post
 title: Make a simple inline display for your outputs
 ---
-# Import packages
+## Import packages
 ```python 
 import cairo
 from IPython.display import SVG, display, Image
 ```
 
-# Inline functions for displaying  
+## Inline functions for displaying  
 ```python 
 def show_img(file):
     display(Image(filename=file))
@@ -17,7 +17,7 @@ def show_svg(file):
     display(SVG(filename=file))
 ```
 
-# Create pycairo example, write to PNG, display PNG inline 
+## Create pycairo example, write to PNG, display PNG inline 
 ```python
 surface = cairo.ImageSurface(cairo.FORMAT_ARGB32, 200, 200)
 context = cairo.Context(surface)
@@ -43,7 +43,7 @@ show_img('example.png')
 ```
 ![](https://raw.githubusercontent.com/nickwan/how_to__simple_display/master/example.png)
 
-# Create pycairo example, write to SVG, display SVG inline 
+## Create pycairo example, write to SVG, display SVG inline 
 ```python
 with cairo.SVGSurface('example.svg', 200, 200) as surface:
     context = cairo.Context(surface)
@@ -67,5 +67,7 @@ show_svg('example.svg')
 ```
 ![](https://github.com/nickwan/how_to__simple_display/blob/master/example.svg)
 
-# Link to notebook
+*Rendering SVG isn't supported some places; here's a [link to the SVG output](https://github.com/nickwan/how_to__simple_display/blob/master/example.svg)
+
+## Link to notebook
 [how_to_simple_display.ipynb](https://github.com/nickwan/how_to__simple_display/blob/master/how_to_simple_display.ipynb)
