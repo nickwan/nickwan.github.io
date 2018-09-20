@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+[GitHub](https://github.com/nickwan)
+[Twitter](https://twitter.com/nickwan)  
+[LinkedIn](https://www.linkedin.com/in/realnickwan/)  
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Best way to contact me is via Twitter (quickest response) or through LinkedIn (much slower). 
