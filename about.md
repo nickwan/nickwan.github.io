@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[GitHub](https://github.com/nickwan)
+[GitHub](https://github.com/nickwan)  
 [Twitter](https://twitter.com/nickwan)  
 [LinkedIn](https://www.linkedin.com/in/realnickwan/)  
 
