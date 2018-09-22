@@ -2,8 +2,9 @@
 layout: post
 title: Rotate a context layer  
 ---
-Here are a few functions we whipped up during the stream to create something like the following image
-![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/executive_authority.png)
+Here are a few functions we whipped up during the stream to create something like the following image  
+
+![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/executive_authority.png)  
 
 ## Line function 
 ```python 
