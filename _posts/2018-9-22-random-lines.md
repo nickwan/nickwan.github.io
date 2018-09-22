@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rotate a context layer  
+title: Random lines and circles  
 ---
 Here are a few functions we whipped up during the stream to create something like the following image  
 
