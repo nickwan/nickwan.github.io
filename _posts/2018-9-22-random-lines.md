@@ -3,7 +3,7 @@ layout: post
 title: Rotate a context layer  
 ---
 Here are a few functions we whipped up during the stream to create something like the following image
-![](https://raw.githubusercontent.com/nickwan/random_lines/blob/master/lines/refactor_ftw.png)
+![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/executive_authority.png)
 
 ## Line function 
 ```python 
@@ -121,7 +121,14 @@ for ix in range(20):
 
 surface.write_to_png(filename)
 ```
-![](https://raw.githubusercontent.com/nickwan/how_to_rotate/master/rotate_example2.png)
+
+## Sample gallery from the live stream 
+![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/mean_crystal.png)
+![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/example8.png)
+![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/fuck_i_spilled_my_crayons.png)
+![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/WEIRD_RANDOM_LINES_1.png)
+![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/refactor_ftw.png)
+![](https://raw.githubusercontent.com/nickwan/random_lines/master/lines/where_is_the_third_circle.png)
 
 ## Link to notebook
 [random_lines.ipynb](https://github.com/nickwan/random_lines/blob/master/random_lines.ipynb)
