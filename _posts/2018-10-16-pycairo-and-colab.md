@@ -46,8 +46,8 @@ show_svg("example.svg")
 ```
 ![](https://raw.githubusercontent.com/nickwan/how_to__simple_display/master/example.png)  
 
-**Note: SVG doesn't play nice via github, image above is PNG  
+*Note: SVG doesn't play nice via github, image above is PNG*  
 
 ## Link to notebook
-[[colab] pycairo_in_colab.ipynb](https://colab.research.google.com/drive/18IA7e_DJ0kYQCdw0UQI7vg8W2Jo9FE-b)
-[[GitHub] pycairo_in_colab.ipynb](https://github.com/nickwan/pycairo_in_colab/blob/master/pycairo_in_colab.ipynb)
+[[colab] pycairo_in_colab.ipynb](https://colab.research.google.com/drive/18IA7e_DJ0kYQCdw0UQI7vg8W2Jo9FE-b)  
+[[GitHub] pycairo_in_colab.ipynb](https://github.com/nickwan/pycairo_in_colab/blob/master/pycairo_in_colab.ipynb)  
