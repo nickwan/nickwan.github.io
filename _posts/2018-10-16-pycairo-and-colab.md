@@ -44,7 +44,8 @@ with cairo.SVGSurface("example.svg", 200, 200) as surface:
     
 show_svg("example.svg")
 ```
-![](https://raw.githubusercontent.com/nickwan/how_to__simple_display/master/example.png)
+![](https://raw.githubusercontent.com/nickwan/how_to__simple_display/master/example.png)  
+
 **Note: SVG doesn't play nice via github, image above is PNG  
 
 ## Link to notebook
